@@ -1,11 +1,7 @@
 #!/bin/sh
 
 # Description: Restore a PostgreSQL database from schema and data dump files 
-#
-# Author: Fabio Agostinho Boris
-#         github.com/fabioboris
-#
-# Creation: 2013-05-08
+
 
 
 # get username
